@@ -1,5 +1,6 @@
 module github.com/masaya0521/simple-line-bot
 
+// +heroku goVersion go1.19
 go 1.19
 
 require (
